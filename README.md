@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.ahmedhameed.dev/portfolio](https://www.ahmedhameed.dev/portfolio)
 
-- 📝 I regularly write articles on [https://www.rocketdev.dev/](https://www.rocketdev.dev/)
+<!-- - 📝 I regularly write articles on [https://www.rocketdev.dev/](https://www.rocketdev.dev/) -->
 
 - 💬 Ask me about **MERNG stack**
 
